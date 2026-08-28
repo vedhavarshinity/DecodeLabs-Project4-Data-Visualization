@@ -1,0 +1,10 @@
+================================================================================
+PROJECT 4 - BUSINESS INSIGHTS
+================================================================================
+
+1. Total revenue generated is ₹1,264,761.96 from 1,200 orders.
+2. Chair is the highest-revenue product with ₹195,620.11 revenue.
+3. Chair has the highest quantity sold with 562 units.
+4. The leading referral source by revenue is Instagram, generating ₹275,285.45.
+5. Cancelled orders represent 20.83% of total orders.
+6. Returned orders represent 20.58% of total orders.
