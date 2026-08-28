@@ -86,7 +86,7 @@ Data Visualization
 Business Insights
      ↓
 Streamlit Dashboard
-
+```
 ## Data Preparation
 
 The following preprocessing steps are performed:
@@ -182,6 +182,4 @@ The project demonstrates how data visualization can be used to identify trends, 
 
 # Author
 Vedhavarshini T. Y.
-
-# DecodeLabs-Project4-Data-Visualization
 
