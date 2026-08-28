@@ -99,7 +99,7 @@ Remove duplicate records
 Validate important columns
 Create Year, Month, and Year-Month features
 
-📊 Key Performance Indicators
+## 📊 Key Performance Indicators
 
 The dashboard displays:
 
@@ -111,7 +111,7 @@ Total Customers
 Cancellation Rate
 Return Rate
 
-📈 Data Visualizations
+## 📈 Data Visualizations
 1. Monthly Revenue Trend
 
 A line chart is used to understand revenue changes over time.
@@ -140,7 +140,7 @@ A bar chart shows the distribution of order statuses.
 
 A stacked bar chart compares order-status patterns across products.
 
-🎛️ Interactive Dashboard
+## 🎛️ Interactive Dashboard
 
 The Streamlit dashboard provides interactive filters for:
 
@@ -166,20 +166,24 @@ Return rate
 These insights help understand business performance and support data-driven decision-making.
 
 # How to Run
-Install Required Libraries: pip install pandas numpy matplotlib seaborn streamlit
-Run Data Visualization: python data_visualization.py
-Run Streamlit Dashboard: streamlit run dashboard.py
+Install Required Libraries:
+pip install pandas numpy matplotlib seaborn streamlit
+
+Run Data Visualization:
+python data_visualization.py
+
+Run Streamlit Dashboard: 
+streamlit run dashboard.py
 
 The dashboard will open at:
-
 http://localhost:8501
 
-🎯 Final Outcome
+## 🎯 Final Outcome
 
 The final outcome is an interactive e-commerce sales analytics dashboard that transforms raw transactional data into meaningful visualizations and business insights.
 
 The project demonstrates how data visualization can be used to identify trends, compare performance, and support data-driven business decisions.
 
 # Author
-Vedhavarshini T. Y.
+Vedhavarshini T.Y
 
